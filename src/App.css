@@ -1,0 +1,10 @@
+.tareas {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+
+
+}
+.task.complete {
+  text-decoration: line-through;
+}
